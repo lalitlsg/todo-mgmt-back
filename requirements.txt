@@ -1,0 +1,8 @@
+flask
+Flask-RESTful
+pymongo
+dnspython
+flask_cors
+
+
+
